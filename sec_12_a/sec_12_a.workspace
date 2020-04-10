@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="sec_12_a" Database="" Version="10.0.0">
+  <Project Name="sprintf" Path="sprintf/sprintf.project" Active="No"/>
+  <Project Name="string_comp" Path="string_comp/string_comp.project" Active="No"/>
+  <Project Name="main_arg" Path="main_arg/main_arg.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="sprintf" ConfigName="Debug"/>
+      <Project Name="string_comp" ConfigName="Debug"/>
+      <Project Name="main_arg" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="sprintf" ConfigName="Release"/>
+      <Project Name="string_comp" ConfigName="Release"/>
+      <Project Name="main_arg" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

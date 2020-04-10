@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="sec_14" Database="" Version="10.0.0">
+  <Project Name="hashdefine" Path="hashdefine/hashdefine.project" Active="No"/>
+  <Project Name="hashdef_macro" Path="hashdef_macro/hashdef_macro.project" Active="No"/>
+  <Project Name="cnd_cmp" Path="cnd_cmp/cnd_cmp.project" Active="No"/>
+  <Project Name="cnd_cmp_1" Path="cnd_cmp_1/cnd_cmp_1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="hashdefine" ConfigName="Debug"/>
+      <Project Name="hashdef_macro" ConfigName="Debug"/>
+      <Project Name="cnd_cmp" ConfigName="Debug"/>
+      <Project Name="cnd_cmp_1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="hashdefine" ConfigName="Release"/>
+      <Project Name="hashdef_macro" ConfigName="Release"/>
+      <Project Name="cnd_cmp" ConfigName="Release"/>
+      <Project Name="cnd_cmp_1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

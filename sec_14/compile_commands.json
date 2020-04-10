@@ -1,0 +1,17 @@
+[{
+  "file": "/home/anto/c_revision/sec_14/cnd_cmp_1/main.c",
+  "directory": "/home/anto/c_revision/sec_14/cnd_cmp_1",
+  "command": "clang  -c /home/anto/c_revision/sec_14/cnd_cmp_1/main.c -o /home/anto/c_revision/sec_14/cnd_cmp_1/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_14/cnd_cmp/main.c",
+  "directory": "/home/anto/c_revision/sec_14/cnd_cmp",
+  "command": "clang  -c /home/anto/c_revision/sec_14/cnd_cmp/main.c -o /home/anto/c_revision/sec_14/cnd_cmp/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_14/hashdefine/main.c",
+  "directory": "/home/anto/c_revision/sec_14/hashdefine",
+  "command": "clang  -c /home/anto/c_revision/sec_14/hashdefine/main.c -o /home/anto/c_revision/sec_14/hashdefine/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_14/hashdef_macro/main.c",
+  "directory": "/home/anto/c_revision/sec_14/hashdef_macro",
+  "command": "clang  -c /home/anto/c_revision/sec_14/hashdef_macro/main.c -o /home/anto/c_revision/sec_14/hashdef_macro/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }]

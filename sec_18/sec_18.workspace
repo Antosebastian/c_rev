@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="sec_18" Database="" Version="10.0.0">
+  <Project Name="Txt_fl" Path="Txt_fl/Txt_fl.project" Active="No"/>
+  <Project Name="txt_fl_buff" Path="txt_fl_buff/txt_fl_buff.project" Active="No"/>
+  <Project Name="txt_fl_buff_2" Path="txt_fl_buff_2/txt_fl_buff_2.project" Active="No"/>
+  <Project Name="ese_3025" Path="ese_3025/ese_3025.project" Active="No"/>
+  <Project Name="copy_txt_file" Path="copy_txt_file/copy_txt_file.project" Active="No"/>
+  <Project Name="ese_3025_2" Path="ese_3025_2/ese_3025_2.project" Active="Yes"/>
+  <Project Name="ese_3025_3" Path="ese_3025_3/ese_3025_3.project" Active="No"/>
+  <Project Name="test" Path="test/test.project" Active="No"/>
+  <Project Name="ese_3025_4" Path="ese_3025_4/ese_3025_4.project" Active="No"/>
+  <Project Name="ese_3025_5" Path="ese_3025_5/ese_3025_5.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Txt_fl" ConfigName="Debug"/>
+      <Project Name="txt_fl_buff" ConfigName="Debug"/>
+      <Project Name="txt_fl_buff_2" ConfigName="Debug"/>
+      <Project Name="ese_3025" ConfigName="Debug"/>
+      <Project Name="copy_txt_file" ConfigName="Debug"/>
+      <Project Name="ese_3025_2" ConfigName="Debug"/>
+      <Project Name="ese_3025_3" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="ese_3025_4" ConfigName="Debug"/>
+      <Project Name="ese_3025_5" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Txt_fl" ConfigName="Release"/>
+      <Project Name="txt_fl_buff" ConfigName="Release"/>
+      <Project Name="txt_fl_buff_2" ConfigName="Release"/>
+      <Project Name="ese_3025" ConfigName="Release"/>
+      <Project Name="copy_txt_file" ConfigName="Release"/>
+      <Project Name="ese_3025_2" ConfigName="Release"/>
+      <Project Name="ese_3025_3" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="ese_3025_4" ConfigName="Release"/>
+      <Project Name="ese_3025_5" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

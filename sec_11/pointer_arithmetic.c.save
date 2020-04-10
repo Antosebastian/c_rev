@@ -1,0 +1,17 @@
+//pointer arithmetic
+
+
+
+#include<stdio.h>
+
+void main()
+{
+	int a[];
+	int n=0;
+	printf("enter the total number of elements of the array");
+	scanf("%d", n);
+	for(int i=0; i<n; i++)
+		scanf("%d",a[]);
+	
+		printf("a[%d] =for  %d", n)
+}

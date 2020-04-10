@@ -1,0 +1,41 @@
+[{
+  "file": "/home/anto/c_revision/sec_18/ese_3025_4/main.c",
+  "directory": "/home/anto/c_revision/sec_18/ese_3025_4",
+  "command": "clang  -c /home/anto/c_revision/sec_18/ese_3025_4/main.c -o /home/anto/c_revision/sec_18/ese_3025_4/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_18/test/main.c",
+  "directory": "/home/anto/c_revision/sec_18/test",
+  "command": "clang  -c /home/anto/c_revision/sec_18/test/main.c -o /home/anto/c_revision/sec_18/test/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_18/txt_fl_buff/main.c",
+  "directory": "/home/anto/c_revision/sec_18/txt_fl_buff",
+  "command": "clang  -c /home/anto/c_revision/sec_18/txt_fl_buff/main.c -o /home/anto/c_revision/sec_18/txt_fl_buff/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_18/Txt_fl/main.c",
+  "directory": "/home/anto/c_revision/sec_18/Txt_fl",
+  "command": "clang  -c /home/anto/c_revision/sec_18/Txt_fl/main.c -o /home/anto/c_revision/sec_18/Txt_fl/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c99  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_18/ese_3025_3/main.c",
+  "directory": "/home/anto/c_revision/sec_18/ese_3025_3",
+  "command": "clang  -c /home/anto/c_revision/sec_18/ese_3025_3/main.c -o /home/anto/c_revision/sec_18/ese_3025_3/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_18/ese_3025/main.c",
+  "directory": "/home/anto/c_revision/sec_18/ese_3025",
+  "command": "clang  -c /home/anto/c_revision/sec_18/ese_3025/main.c -o /home/anto/c_revision/sec_18/ese_3025/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_18/copy_txt_file/main.c",
+  "directory": "/home/anto/c_revision/sec_18/copy_txt_file",
+  "command": "clang  -c /home/anto/c_revision/sec_18/copy_txt_file/main.c -o /home/anto/c_revision/sec_18/copy_txt_file/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_18/ese_3025_5/main.c",
+  "directory": "/home/anto/c_revision/sec_18/ese_3025_5",
+  "command": "clang  -c /home/anto/c_revision/sec_18/ese_3025_5/main.c -o /home/anto/c_revision/sec_18/ese_3025_5/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_18/txt_fl_buff_2/main.c",
+  "directory": "/home/anto/c_revision/sec_18/txt_fl_buff_2",
+  "command": "clang  -c /home/anto/c_revision/sec_18/txt_fl_buff_2/main.c -o /home/anto/c_revision/sec_18/txt_fl_buff_2/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/home/anto/c_revision/sec_18/ese_3025_2/main.c",
+  "directory": "/home/anto/c_revision/sec_18/ese_3025_2",
+  "command": "clang  -c /home/anto/c_revision/sec_18/ese_3025_2/main.c -o /home/anto/c_revision/sec_18/ese_3025_2/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }]

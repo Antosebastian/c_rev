@@ -20,8 +20,7 @@ void menu()
 	int select;
 	open(); //this is the introduction screen
 	printf("1. Daily Rosary\n2. Today's mystery\n");
-	scanf("%d", &select);
-
+	scanf("%d", &select);//select
 }
 
 int main()

@@ -2,7 +2,7 @@
  ============================================================================
  Name : rosary.c
  Author : kiranantosebastian
- Version :
+ Version :0.0
  Copyright : Your copyright notice
  Description : Hello World in C, Ansi-style
  ============================================================================
